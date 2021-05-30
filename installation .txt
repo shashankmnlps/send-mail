@@ -1,0 +1,12 @@
+1)downlode send.py
+2) then copy send .py to PycharmProjects in your project location
+
+before running please install these in your python terminal
+1) install (pip install SpeechRecognition)
+2) install (pip install pyaudio)
+3) install (pip install smtplib)
+4) install (pip istall pyttsx3)
+
+then run your code
+
+thankyou
